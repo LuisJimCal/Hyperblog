@@ -10,3 +10,5 @@ r = 8 / 100
 t = int(input('Enter the amount of years that the principal will be compounded for: '))
 final_amount = principal * (1 + (r / 9))**(n * t)
 print('The final ampount is :', final_amount)
+
+
